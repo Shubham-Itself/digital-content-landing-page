@@ -443,6 +443,15 @@ body{
 	cursor: none;
 }
 
+@media screen and (max-width:767px) {
+	.serviceTb{
+		display: none;
+	}
+	.campusTb{
+		margin-bottom: 10px !important;
+	}
+	
+}
 .section-title h2{
 	font-size: 46px;
 	letter-spacing: -0.02em;
